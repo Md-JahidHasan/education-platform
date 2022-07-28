@@ -14,3 +14,10 @@
 .container h1{
     /* font-size: 2em; */
 }
+
+.company-brand img{
+    margin-left: 35px;
+    width: 90px;
+    height: 30px;
+
+}
